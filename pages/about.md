@@ -14,7 +14,7 @@ This is a practice title and body paragraph. Now lets get a little bit interesti
   * list item 2
      * sub item 
 
-Lets try to make a [link](google.com).
+Lets try to make a [link](https://www.google.com/)
 
 Yay! It worked! So cool!
 
