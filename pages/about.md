@@ -15,8 +15,6 @@ This is a practice title and body paragraph. Now lets get a little bit interesti
      * sub item 1
      * sub item 2
 
-  * List item one
-    * List item one
-        * List item one
+Yay! It worked! So cool!
 
 
